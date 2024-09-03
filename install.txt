@@ -1,0 +1,1 @@
+pyinstaller -F -w --icon hb.ico --hidden-import=pkg_resources.py2_warn Ghost.py
